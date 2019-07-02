@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1559013501 source:c:\users\usuario\desktop\iterator\main.cpp
+	"arbol.h"
+	<iostream>
+
+1559013527 c:\users\usuario\desktop\iterator\arbol.h
+	<iostream>
+	<stack>
+	<vector>
+	<utility>
+
+1560215868 source:c:\users\usuario\desktop\por el amor a aed\iterator\main.cpp
+	"arbol.h"
+	<iostream>
+
+1560215929 c:\users\usuario\desktop\por el amor a aed\iterator\arbol.h
+	<iostream>
+	<stack>
+	<vector>
+	<utility>
+

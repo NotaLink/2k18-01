@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1561465000 source:c:\users\usuario\desktop\por el amor a aed\avl2\main.cpp
+	<iostream>
+	<vector>
+	<stack>
+	<queue>
+	"avl.h"
+
+1561426878 c:\users\usuario\desktop\por el amor a aed\avl2\avl.h
+	<iostream>
+

@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1559611133 source:c:\users\usuario\desktop\avl tree\main.cpp
+	"CTree.h"
+	<iostream>
+
+1559611849 c:\users\usuario\desktop\avl tree\ctree.h
+	<iostream>
+	<stack>
+	<queue>
+
+1559651389 source:c:\users\usuario\desktop\por el amor a aed\avl tree\main.cpp
+	"CTree.h"
+	<iostream>
+
+1559651354 c:\users\usuario\desktop\por el amor a aed\avl tree\ctree.h
+	<iostream>
+	<stack>
+	<queue>
+
